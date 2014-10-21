@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mess_Menu</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="clg_name"> VIT UNIVERSITY </string>
+    <string name="hostel_type1"> Boys </string>
+    <string name="hostel_type2"> Girls </string>
+    <string name="title_activity_hostels"> Hostels </string>
+    <string name="select_your_hostel"> Select Your Hostel </string>
+    <string name="block1"> A Block </string>
+    <string name="block2"> B Block </string>
+    <string name="title_activity_menu__detail">Menu_Detail</string>
+    <string name="Rate"> Rate This App </string>
+    <string name="title_activity_testdb">Testdb</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_sqlview">SQLView</string>
+
+</resources>
